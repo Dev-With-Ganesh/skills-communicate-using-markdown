@@ -10,3 +10,4 @@
 
 ###### This is an `<h6>` header
 
+<img src="https://octodex.github.com/images/yaktocat.png" alt="Image" />
