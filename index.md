@@ -10,4 +10,5 @@
 
 ###### This is an `<h6>` header
 
-<img src="https://octodex.github.com/images/yaktocat.png" alt="Image" />
+![A cute Octocat mascot wearing a yak costume](https://octodex.github.com/images/yaktocat.png)
+
