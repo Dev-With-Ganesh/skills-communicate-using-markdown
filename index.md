@@ -12,3 +12,6 @@
 
 ![A cute Octocat mascot wearing a yak costume](https://octodex.github.com/images/yaktocat.png)
 
+``` javascript
+var myVar = "Hello, world!";
+```
